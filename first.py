@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/18fOQwEl3uZ_LO_IKKUoNzthQ8hhrxf1g
 """
 
-print("Hello UAT")
+print("Hello new gcp")
 
 #This is new
 
